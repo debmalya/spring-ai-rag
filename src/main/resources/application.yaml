@@ -6,4 +6,4 @@ spring:
       api-key: ${OPENAI_API_KEY}
 sfg:
   aiapp:
-    vecotorStorePath: /tmp/spring-ai-rag/vectorStore.json
+    vectorStorePath: /tmp/spring-ai-rag/vectorStore.json
